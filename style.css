@@ -103,7 +103,7 @@ header .intro h3 {
 }
 
 .profil {
-  background-image: url(asset/Pas\ Photo.jpg);
+  background-image: url(Pas\ Photo.jpg);
   background-size: cover;
   border-radius: 100px;
   width: 150px;
