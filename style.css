@@ -252,6 +252,9 @@ section.quote .layar-dalam p {
   box-shadow: 0px -10px 30px #ccc;
   border-radius: 5px;
 }
+section#team div img:hover {
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.0);
 .blog .area {
   width: 47%;
   box-shadow: 0px -10px 30px #ccc;
