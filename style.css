@@ -252,7 +252,7 @@ section.quote .layar-dalam p {
 }
 section#team div img:hover {
   transition: all 0.2s ease-in-out;
-  transform: scale(1.5);
+  transform: scale(1.2);
 
 .blog .area {
   width: 47%;
