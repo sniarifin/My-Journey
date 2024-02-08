@@ -273,6 +273,14 @@ section.quote .layar-dalam p {
   size: ;
   
 }
+section#team {
+  background-color: #6495ed;
+}
+section#aboutus {
+  background-color: #6495ed;
+  background-color: auto;
+  background-image: none;
+}
 .blog .area {
   width: 47%;
   box-shadow: 0px -10px 30px #ccc;
